@@ -11,7 +11,9 @@ A project that show case personal credentials e.g career, contacts, about and se
   
   . Css
   ## Requirements
-  . Either a computer,phone,tablet or an Ipad
+  Either a computer,phone,tablet or an Ipad
+  
+  An access to the Internet
   
 
 
