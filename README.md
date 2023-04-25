@@ -6,8 +6,7 @@ A project that show case personal credentials e.g career, contacts, about and se
 
 ## Technologies
   . BackEnd: *Angularjs
-  . Javascript
-  
+  . FontEnd: * HTML * CSS * JavaScript * Bootstrap
   . Css
   ## Requirements
   Either a computer,phone,tablet or an Ipad
