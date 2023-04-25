@@ -10,5 +10,7 @@ A project that show case personal credentials e.g career, contacts, about and se
   . Javascript
   
   . Css
+  ## Requirements 
+  
 
 
